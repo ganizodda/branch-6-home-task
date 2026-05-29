@@ -123,30 +123,6 @@ The UI was designed with the following UX principles:
 
 ---
 
-# File Structure
-
-```text
-📁 Food Delivery App
- ┣ 📂 Components
- ┣ 📂 Screens
- ┣ 📂 Icons
- ┣ 📂 Typography
- ┣ 📂 Colors
- ┣ 📂 Prototypes
- ┗ 📂 Assets
-```
-
----
-
-# Prototype
-
-Interactive prototype is available inside the Figma file.
-
-Figma Link:
-https://www.figma.com/design/sYinLULoiBpSAMimbnHRNq/доставка-еды
-
----
-
 # Target Audience
 
 This application is designed for:
